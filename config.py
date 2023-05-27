@@ -1,2 +1,2 @@
-password = "xxx"
+password = ""
 otra_cosa= "aca guardo"
